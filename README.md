@@ -18,7 +18,7 @@ Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marydez57)](https://github.com/Marydez57/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marydez57&show_icons=true&theme=radical)
+![Mary Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marydez57&show_icons=true&theme=radical)
 
  
 
