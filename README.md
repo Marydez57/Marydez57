@@ -14,8 +14,6 @@ Languages:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/91586774/156714662-7f149b99-5bf7-41fb-a179-fe5e5f0a29d0.svg)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marydez57)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marydez57&show_icons=true&theme=radical)
 
  
