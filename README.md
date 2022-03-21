@@ -34,7 +34,7 @@ Testing
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/91586774/157108196-a5c2534d-5e3c-4690-a7ba-8355c9d919b6.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marydez57&repo=github-readme-stats)](https://github.com/Marydez57/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marydez57)](https://github.com/Marydez57/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marydez57)](https://github.com/Marydez57/github-readme-stats)
